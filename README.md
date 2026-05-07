@@ -1,8 +1,8 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:03045e,35:0077b6,70:00b4d8,100:90e0ef&text=German%20Dario%20Realpe%20Zambrano&fontColor=ffffff&fontSize=34&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%7C%20Programming%20%7C%20AI&descAlignY=56&descSize=18" alt="Header futurista de ciberseguridad y programación" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:03045e,35:0077b6,70:00b4d8,100:90e0ef&text=German%20Dario%20Realpe%20Zambrano&fontColor=ffffff&fontSize=34&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%7C%20Programming%20%7C%20AI&descAlignY=56&descSize=18"  />
 </p>
 
-<h1 align="center">Portafolio Profesional</h1>
+<!-- <h1 align="center">Portafolio Profesional</h1> -->
 
 <p align="center">
 	<strong>Construyendo soluciones seguras, escalables e inteligentes.</strong>
@@ -12,7 +12,7 @@
 
 ## Sobre mí
 
-Soy **German Dario Realpe Zambrano**. Me enfoco en la creación de soluciones tecnológicas con una visión práctica en:
+Me enfoco en la creación de soluciones tecnológicas con una visión práctica en:
 
 - Ciberseguridad aplicada al desarrollo de software.
 - Programación y automatización de procesos.
@@ -58,6 +58,7 @@ Actualmente resido en **Cerdanyola del Vallès, Cataluña (España)**.
 ## Formación y Certificaciones
 
 - **Máster Universitario en Seguridad de las TIC** - Universidad Europea (2019 - 2020).
+- **Máster en Geoinformación** - Universidad Autónoma de Barcelona (23-24, curso académico 2024-2025).
 - **Implantador líder ISO 27001** - BSG Institute (2019).
 - **IBM QRadar** - IBM (2019).
 - **Licenciatura en Matemáticas con énfasis en Computación** - Universidad Santiago de Cali (1995 - 2001).
