@@ -1,0 +1,7 @@
+#ignorar archivos temporales
+*.pdf
+*.evenv/
+*.log
+#ignorar archivos de configuración de python .venv
+.venv/
+__pycache__/
